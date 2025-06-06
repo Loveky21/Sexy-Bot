@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By Loveky Banbochè",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --Sexy-Bot",
+    "start": "pm2 start index.js --deep-monitoring --attach --name Sexy-Bot",
     "stop": "pm2 stop Sexy-Bot",
     "restart": "pm2 restart Sexy-Bot"
   },
